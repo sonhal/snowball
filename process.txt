@@ -1,0 +1,37 @@
+
+Notice: I have received premission from Anthony to complete assignments alone.
+student:
+s305349
+Sondre Halvorsen
+IT
+
+Development Process
+
+Week 1:
+
+After som discussion I landed on the idea of a skateboard rental service for the Oslo area.
+As the title of the webpage says the goal of this service is to provide explorers of Oslo
+a new way of transport and view of the city.
+
+The webpage should serve as a promotion and information page. The goal is to increase
+awareness of the service. The design should be friendly and inviting. I decieded on using
+a light green, white and grey as my color base.
+
+The site should showcase Oslo and skateboarding through the choice of images.
+
+The information should be concise and aimed at making the user "feel" the product.
+
+
+
+Week 2:
+
+Feedback
+I shared the first draft of the webpage to a group of student peers. The feedback I 
+received was:
+ - Include more information about the company
+ - Provide a realistic way for the user to contact the company
+ - Mix up the layout, the current layout was judged to be somewhat static and flat.
+
+I have taken the feedback to heart and implemented the necessary changes
+
+
